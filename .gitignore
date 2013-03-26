@@ -1,0 +1,7 @@
+.project
+.classpath
+.settings
+.mymetadata
+.myeclipse
+.*.swp
+target
